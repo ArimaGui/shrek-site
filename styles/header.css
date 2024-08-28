@@ -29,6 +29,7 @@ body {
       align-items: center;
       justify-content: center;
       background-color: #000;
+      padding: 5rem;
 
       & .descricao-container {
         display: flex;
@@ -54,8 +55,10 @@ body {
       }
 
       & .filme-container {
+        padding: 2rem;
+
         & img {
-          width: 30rem;
+          width: 20rem;
         }
       }
     }
