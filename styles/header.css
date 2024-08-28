@@ -8,13 +8,13 @@ body {
     background-color: #111;
 
     & h1 {
-      font-size: 35px;
+      font-size: 60px;
       font-weight: 700;
       color: #b10015;
     }
 
     & p {
-      font-size: 20px;
+      font-size: 40px;
       color: #fff;
     }
   }
@@ -60,6 +60,7 @@ body {
 
         & img {
           width: 400px;
+          border-radius: 20px;
         }
       }
     }
