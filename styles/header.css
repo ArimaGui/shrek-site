@@ -58,7 +58,7 @@ body {
         padding: 2rem;
 
         & img {
-          height: 590px;
+          width: 300px;
         }
       }
     }
