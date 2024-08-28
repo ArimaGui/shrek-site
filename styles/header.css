@@ -34,10 +34,10 @@ body {
       & .descricao-container {
         display: flex;
         flex-flow: column;
-        gap: 10px;
+        gap: 20px;
         background-color: #fff;
         color: #000;
-        padding: 20px;
+        padding: 30px;
         border-radius: 30px;
 
         & h2 {
