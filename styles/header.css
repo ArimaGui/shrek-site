@@ -8,13 +8,13 @@ body {
     background-color: #111;
 
     & h1 {
-      font-size: 60px;
+      font-size: 50px;
       font-weight: 700;
       color: #b10015;
     }
 
     & p {
-      font-size: 40px;
+      font-size: 30px;
       color: #fff;
     }
   }
